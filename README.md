@@ -13,29 +13,29 @@
 <br/>
 
 ### 🚀 About Me
-- 💻 Kỹ sư phần mềm tập trung vào phát triển ứng dụng Web Front-End quy mô doanh nghiệp và ứng dụng di động Android.
-- 🛠️ Thế mạnh về kiến trúc SPA, quản lý state (Zustand, Redux), tích hợp API và tối ưu trải nghiệm người dùng (UX/UI).
-- 🎯 Định hướng: Tối ưu hiệu năng ứng dụng, clean architecture và xây dựng hệ sinh thái phần mềm ổn định, dễ bảo trì.
+- 💻 Software Engineer specializing in enterprise-scale Front-End web development and Android mobile applications.
+- 🛠️ Core strengths in SPA architecture, modern state management (Zustand, Redux), seamless API integration, and intuitive UX/UI optimization.
+- 🎯 Focus: Application performance optimization, clean code architecture, and building robust, maintainable software systems.
 
 ---
 
 ### 💼 Work Experience
 
 #### **Viettas Saigon JSC** — *Front-End & Mobile Developer*
-*2+ năm kinh nghiệm*
-- Phát triển và duy trì các hệ thống phần mềm quản lý nội bộ và giải pháp doanh nghiệp quy mô lớn.
-- Xây dựng nền tảng quản lý nhân sự, chấm công và ca làm việc (**HRPM**) với giao diện mượt mà và khả năng xử lý dữ liệu biểu đồ phức tạp.
-- Phát triển giải pháp bán hàng đa nền tảng (**iSale & Salesta**): Xây dựng Web Dashboard theo dõi doanh thu thời gian thực và ứng dụng Android POS phục vụ quầy bán vé/bán hàng.
-- Tích hợp cổng thanh toán mã QR, chốt ca tự động cho hệ thống gọi món và thanh toán (**Tân Huê Viên**).
+*2+ years of experience*
+- Developed and maintained internal management systems and enterprise-level business solutions.
+- Engineered an enterprise Human Resource platform (**HRPM**) for attendance tracking, shift scheduling, and reporting with interactive data visualizations.
+- Built a cross-platform sales solution (**iSale & Salesta**): Designed a real-time revenue analytics Web Dashboard and developed an Android POS application for counter checkout operations.
+- Integrated QR code payment gateways and automated shift-closing workflows for a food ordering and cashier system (**Tan Hue Vien**).
 
 ---
 
 ### 🎓 Education
 
-- **University of Information Technology (UIT) - ĐHQG TP.HCM**  
-  *Chương trình học nâng cao / Sau đại học*
-- **HUTECH University (Đại học Công nghệ TP.HCM)**  
-  *Kỹ sư Kỹ thuật Phần mềm (Software Engineering)*
+- **University of Information Technology (UIT) - VNU-HCM**  
+  *Postgraduate / Advanced Studies*
+- **Ho Chi Minh City University of Technology (HUTECH)**  
+  *Bachelor of Engineering in Software Engineering*
 
 ---
 
