@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyễn Duy Tân 👋
-**Front-End Developer | ReactJS • TypeScript**
-\\n**Android Developer | Kotlin/Java**
+**Front-End Developer | ReactJS • TypeScript**<br>
+**Android Developer | Kotlin/Java**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duytannguyen183@gmail.com)
 
@@ -21,8 +21,9 @@
 | **Front-End** | `ReactJS`, `TypeScript`, `JavaScript (ES6+)`, `Vite`, `Next.js`, `HTML5/CSS3` |
 | **State & Fetching** | `Zustand`, `React Query (TanStack)`, `Redux Toolkit`, `RESTful APIs` |
 | **UI Frameworks** | `Ant Design`, `TailwindCSS`, `Material UI`, `Bootstrap 5` |
-| **Mobile & Other** | `Android (Kotlin/Java)`, `Python`, `Embedded IoT (Arduino)` |
 | **Databases & Tools** | `SQL Server`, `MySQL`, `MongoDB`, `Git`, `GitHub`, `GitLab`, `Figma` |
+| **Mobile & Other** | `Android (Kotlin/Java)`, `Python`, `Embedded IoT (Arduino)` |
+| **AI & Assistants** | `ChatGPT`, `Claude`, `Gemini` |
 
 ---
 
