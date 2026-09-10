@@ -1,6 +1,5 @@
 # Hi there, I'm Nguyễn Duy Tân 👋
-**Front-End Developer | ReactJS • TypeScript**<br>
-**Android Developer | Kotlin/Java**
+**Front-End Developer & Android Developer**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:duytannguyen183@gmail.com)
 
