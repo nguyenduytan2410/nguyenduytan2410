@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Activity
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenduytan2410&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
