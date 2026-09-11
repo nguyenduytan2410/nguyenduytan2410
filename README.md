@@ -71,7 +71,7 @@
 - Built a cross-platform sales solution (**iSale & Salesta**): Designed a real-time revenue analytics Web Dashboard and developed an Android POS application for counter checkout operations.
 - Integrated QR code payment gateways and automated shift-closing workflows for a food ordering and cashier system (**Tan Hue Vien**).
 ---
-### 📂 Featured & Enterprise Projects
+### 🏢 Enterprise Projects (Viettas Saigon JSC)
 
 #### 📱 Mobile Applications (Android)
 | Project | Description | Tech Stack |
