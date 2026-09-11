@@ -20,10 +20,10 @@
 ---
 ### 🎓 Education
 
-- **University of Information Technology (UIT) - VNU-HCM** *(2024 – 2026, Expected)*  
-  *Postgraduate / Advanced Studies*
-- **Ho Chi Minh City University of Technology (HUTECH)** *(2019 – 2023)*  
-  *Bachelor of Engineering in Software Engineering*
+| Institution & Degree | Period |
+| :--- | ---: |
+| **University of Information Technology (UIT) - VNU-HCM**<br>*Postgraduate / Advanced Studies* | `2024 – 2026 (Expected)` |
+| **Ho Chi Minh City University of Technology (HUTECH)**<br>*Bachelor of Engineering in Software Engineering* | `2019 – 2023` |
   
 ---
 
