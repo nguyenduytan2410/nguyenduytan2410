@@ -18,25 +18,13 @@
 - 🎯 Focus: Application performance optimization, clean code architecture, and building robust, maintainable software systems.
 
 ---
-
-### 💼 Work Experience
-
-#### **Viettas Saigon JSC** — *Front-End & Mobile Developer*
-*2+ years of experience*
-- Developed and maintained internal management systems and enterprise-level business solutions.
-- Engineered an enterprise Human Resource platform (**HRPM**) for attendance tracking, shift scheduling, and reporting with interactive data visualizations.
-- Built a cross-platform sales solution (**iSale & Salesta**): Designed a real-time revenue analytics Web Dashboard and developed an Android POS application for counter checkout operations.
-- Integrated QR code payment gateways and automated shift-closing workflows for a food ordering and cashier system (**Tan Hue Vien**).
-
----
-
 ### 🎓 Education
 
-- **University of Information Technology (UIT) - VNU-HCM**  
+- **University of Information Technology (UIT) - VNU-HCM** *(2024 – 2026, Expected)*  
   *Postgraduate / Advanced Studies*
-- **Ho Chi Minh City University of Technology (HUTECH)**  
+- **Ho Chi Minh City University of Technology (HUTECH)** *(2019 – 2023)*  
   *Bachelor of Engineering in Software Engineering*
-
+  
 ---
 
 ### 💻 Tech Stack
@@ -74,6 +62,15 @@
 
 ---
 
+### 💼 Work Experience
+
+#### **Viettas Saigon JSC** — *Front-End & Mobile Developer*
+*2+ years of experience*
+- Developed and maintained internal management systems and enterprise-level business solutions.
+- Engineered an enterprise Human Resource platform (**HRPM**) for attendance tracking, shift scheduling, and reporting with interactive data visualizations.
+- Built a cross-platform sales solution (**iSale & Salesta**): Designed a real-time revenue analytics Web Dashboard and developed an Android POS application for counter checkout operations.
+- Integrated QR code payment gateways and automated shift-closing workflows for a food ordering and cashier system (**Tan Hue Vien**).
+---
 ### 📂 Featured & Enterprise Projects
 
 #### 📱 Mobile Applications (Android)
