@@ -76,9 +76,20 @@
 
 ### 📂 Featured & Enterprise Projects
 
+#### 📱 Mobile Applications (Android)
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **HRPM** | Enterprise HR platform for attendance tracking, shift scheduling, and reporting. | `ReactJS`, `Ant Design`, `TailwindCSS`, `Zustand`, `React Query`, `.NET API` |
-| **iSale & Salesta** | Multi-platform solution: Web dashboard for analytics and Android counter POS app. | `TypeScript`, `ReactJS`, `Android (Kotlin/Java)`, `.NET API` |
-| **Food Ordering (Tan Hue Vien)** | Fast-food order processing, shift closing, and QR payment integration. | `TypeScript`, `ReactJS`, `Ant Design`, `TailwindCSS`, `Zustand` |
-| **STT_WhisperASR** | Speech-to-text pipeline transcribing audio files using Whisper ASR. | `Python`, `Whisper ASR` |
+| **VTS-Staff-Android** | Enterprise staff app for employee attendance, shift monitoring, and internal requests. | `Android (Kotlin/Java)`, `RESTful API` |
+| **THV_KSNB_Android** | Internal auditing and quality control app for Tan Hue Vien operations. | `Android (Kotlin/Java)`, `Room DB`, `RESTful API` |
+| **VTS_ThongKe_iSale** | Real-time sales statistics and revenue tracking app within the iSale ecosystem. | `Android (Kotlin/Java)`, `MPAndroidChart` |
+| **VTS_Barcode_MYT** | Barcode scanning mobile tool for inventory auditing and goods tracking. | `Android (Kotlin/Java)`, `Barcode SDK`, `CameraX` |
+| **ThongKe_MYT** | Performance reporting and business metrics tracking mobile solution. | `Android (Kotlin/Java)`, `MPAndroidChart` |
+
+#### 💻 Web Platforms & AI
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **HRPM** | Enterprise HR platform for attendance tracking, shift scheduling, and reporting. | `ReactJS`, `Ant Design`, `TailwindCSS`, `Zustand`, `.NET API` |
+| **Food Ordering (Tan Hue Vien)** | Fast-food order processing, shift closing, and QR payment integration. | `TypeScript`, `ReactJS`, `Ant Design`, `TailwindCSS`|
+| **VTS_ThongKe_iSale** | Real-time sales statistics and revenue tracking app within the iSale ecosystem. | `ReactJS`, `Ant Design`, `TailwindCSS`, `Zustand`, `.NET API` |
+
+
